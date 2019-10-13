@@ -1,0 +1,2 @@
+## Restaurants Reviews
+The goal of this subject is to build a classifier from Yelp, zomato and other sources of reviews, mapping each review to a score for food, place and ambience. The dataset we have countains around 85 000 reviews of New York restaurants, with a global rating from 1 to 5
